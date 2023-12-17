@@ -2,7 +2,7 @@
   <main class="h-screen">
     <div class="bg-purple h-full">
       <p
-        class="break-normal bg-transparent opacity-30 font-bold font-mono uppercase flex justify-center items-center text-9xl"
+        class="break-normal bg-transparent opacity-30 font-bold font-mono uppercase text-center text-9xl"
       >
         Make an order
       </p>

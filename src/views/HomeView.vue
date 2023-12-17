@@ -3,7 +3,8 @@ import { RouterLink } from "vue-router";
 </script>
 <template>
   <div class="h-screen">
-    <div class="bg-cover bg-home-page h-full">
+    <div class="bg-cover relative h-full">
+      <img src="../assets/homeBG.jpeg" alt="" />
       <p
         class="pt-3 bg-transparent opacity-30 font-bold font-mono uppercase flex justify-center items-center text-10xl"
       >
