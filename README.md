@@ -12,7 +12,7 @@
 | --- | ----------- |
 | Satvars | Flask |
 | Programmēšanas valoda | Python |
-| Datu bāze | SQLLite |
+| Datu bāze | Firebase |
 | OS | Windows |
 | Serveris | Izstrādātāja dators / Azure |
 
