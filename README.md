@@ -12,6 +12,8 @@
 | --- | ----------- |
 | Satvars | Flask |
 | Programmēšanas valoda | Python |
+| Frontend | JavaScript |
+| Satvars | Vue |
 | Datu bāze | Firebase |
 | OS | Windows |
 | Serveris |  Azure |
