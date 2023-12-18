@@ -14,11 +14,11 @@
 | Programmēšanas valoda | Python |
 | Datu bāze | Firebase |
 | OS | Windows |
-| Serveris | Izstrādātāja dators / Azure |
+| Serveris |  Azure |
 
 
 ## Concept
-![Concept model](изображение_2023-12-17_202638895.png)
+![Concept model]()
 ![Concept model](изображение_2023-12-17_202712782.png)
 
 
