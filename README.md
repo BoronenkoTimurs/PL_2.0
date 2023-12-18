@@ -18,7 +18,7 @@
 
 
 ## Concept
-![Concept model]()
+![Concept model](изображение_2023-12-18_105644912.png)
 ![Concept model](изображение_2023-12-17_202712782.png)
 
 
